@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      height: 100%;
+      background-color: black;
+    }
+
+    .container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 75%;
+      height: 100%;
+      display: grid;
+      grid-template-rows: 1fr 4fr 1fr 1fr;
+    }
+
+    .row-1 {
+      background-color: #FFA03E;
+    }
+
+    .row-2 {
+      background-color: #BABABA;
+      display: grid;
+      grid-template-columns: 1fr 15fr;
+    }
+
+    .upper {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    .upper > div {
+      margin: 0.25rem;
+      padding: 0.5rem;
+    }
+
+    .lower {
+      display: grid;
+      grid-template-columns: 7fr 3fr;
+    }
+
+    .lower > div {
+      margin: 0.25rem;
+      padding: 0.5rem;
+    }
+
+    .row-3,
+    .row-4 {
+      background-color: #E9E3CA;
+      margin: 0.25rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="row-1">1</div>
+    <div class="row-2">
+      <div>2</div>
+      <div class="layouts">
+        <div class="upper">
+          <div>3</div>
+          <div>4</div>
+          <div>5</div>
+        </div>
+        <div class="lower">
+          <div>6</div>
+          <div>
+            <div>7</div>
+            <div>8</div>
+            <div>9</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row-3">10</div>
+    <div class="row-4">11</div>
+  </div>
+</body>
+</html>

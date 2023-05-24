@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+.margin{
+  position:relative;
+  left:0;
+  right:0;
+}
+body{
+  background-color:black;
+}
+
+.top {
+  background-color: antiquewhite;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.second {
+  background-color: darkblue;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 4fr 2fr 1fr;
+  grid-template-rows: 400px;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.thirdpart {
+  background-color: rgb(221, 213, 213);
+}
+
+.four {
+  background-color: #ffd7b4;
+}
+
+.narrow{
+  background-color: #fd973f;
+}
+.sub-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 10px;
+}
+
+.grid-container2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 20vh;
+  gap: 10px;
+}
+
+.base{
+  background-color: lightskyblue;
+}
+
+    </style>
+</head>
+<body>
+  <div class="maincomponent">
+    <div style="position :relative; margin-top:-18px;margin-left:-10px; margin-right:-10px; " class="top">
+        <p>1</p>
+    </div>
+
+    <div class="second" style="position :relative; margin-top:2px;margin-left:-10px; margin-right:-10px;">2 </div>
+
+    <div class="grid-container">
+        <div class="thirdpart" style="position :relative; margin-top:2px;margin-left:-10px;">3.</div>
+        <div class="four">4.</div>
+        <div class="sub-grid">
+            <div class="narrow">5.</div>
+            <div class="narrow">6.</div>
+            <div class="narrow">8.</div>
+            <div class="narrow">9.</div>
+        </div>
+
+        <div class="thirdpart" style="position :relative; margin-top:2px; margin-right:-10px;">7.</div>
+    </div>
+
+    <div class="top" style="position :relative; margin-top:2px;margin-left:-10px; margin-right:-10px;">10</div>
+    <div class="top" style="position :relative; margin-top:2px;margin-left:-10px; margin-right:-10px;">11</div>
+
+    <div class="second" style="position :relative; margin-top:2px;margin-left:-10px; margin-right:-10px;">12</div>
+
+    <div class="grid-container2" style="position :relative; margin-top:2px;margin-left:-10px; margin-right:-10px;">
+        <div class="base">13</div>
+        <div class="base">14</div>
+    </div>
+
+</div>
+</body>
+</html>

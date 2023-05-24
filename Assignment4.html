@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment-4</title>
+    <style>
+        body{
+            background-color: black;
+        }
+        .div1{
+            display:flex;
+            margin-top:-15px;
+            background-color: rgb(245, 243, 226);
+            width:101.2%;
+            margin-left:-10px;
+            position:relative;
+            padding:5px;
+            height:40px;
+        }
+       .div2{
+            display:flex;
+            margin-top:-15px;
+            background-color: rgb(19, 19, 174);
+            width:101.2%;
+            margin-left:-13px;
+            position:relative;
+            padding:5px;
+            height:200px;
+        }
+        .container {
+  display: flex;
+  align-items: center;
+  margin-top:8px;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.square {
+  width: 150px;
+  height: 150px;
+  background-color: #5cd1ec;
+  flex-shrink: 0;
+}
+
+.text-container {
+  flex-grow: 1;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.text-container span {
+  margin-top:-10px;
+  height:30px;
+  background-color: rgb(5, 84, 22);
+  padding: 15px;
+}
+
+.text-container1 {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right:10px;
+}
+
+.text-container1 span {
+  height:30px;
+  background-color: rgb(245, 189, 67);
+  height:150px;
+}
+
+    </style>
+</head>
+<body>
+    <div class="div1">1</div><br>
+    <div class="div2">2
+    </div>
+    <div class="container">
+        <div class="square">3</div>
+        <div class="text-container">
+          <span>4</span><br>
+          <span>5</span>
+        </div>
+      </div>
+      
+      <div class="container">
+        <div class="text-container1">
+          <span>6</span>
+        </div>
+        <div class="square">7</div>
+      </div>
+
+      <div class="container">
+        <div class="square">8</div>
+        <div class="text-container">
+          <span>9</span><br>
+          <span>10</span>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="text-container1">
+          <span>11</span>
+        </div>
+        <div class="square">12</div>
+      </div>
+      <div style="margin-bottom:-10px; margin-top:10px; background-color: aqua;"class="div2">13
+    </div>
+</body>
+</html>
