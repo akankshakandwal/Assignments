@@ -14,6 +14,6 @@
 
 ![Assignment8](https://github.com/akankshakandwal/Assignments/assets/107174826/fe5c4602-b5bb-4935-8e04-1761cc7aa9ed)
 
-![Assignment9](https://github.com/akankshakandwal/Assignments/assets/107174826/538fa8d9-670a-4f51-87db-fffaea567d2b)
+![Assignment9](https://github.com/akankshakandwal/Assignments/assets/107174826/00ba00b7-aaa8-476b-b6a1-4e9c5a3f6169)
 
-![Assignment10](https://github.com/akankshakandwal/Assignments/assets/107174826/100cf280-96af-4a0d-bb74-da434a265564)
+![Assignment10](https://github.com/akankshakandwal/Assignments/assets/107174826/36688d1c-943f-4afe-96b2-0a3af6b56c26)
