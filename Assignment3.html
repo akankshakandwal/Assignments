@@ -6,43 +6,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Assignment-3</title>
     <style>
+      *{
+        margin:0;
+        padding:0;
+      }
         body{
             background-color: black;
         }
         .div1{
             display:flex;
-            margin-top:-15px;
             background-color: rgb(247, 241, 197);
-            width:101.2%;
-            margin-left:-10px;
+            width:100%;
             position:relative;
             padding:5px;
             height:40px;
         }
        .div2{
             display:flex;
-            margin-top:-15px;
             background-color: rgb(253, 215, 66);
-            width:101.2%;
-            margin-left:-13px;
+            width:100%;
             position:relative;
             padding:5px;
             height:80px;
+            margin-top:4px;
         }
         .container {
-  display: flex;
-  align-items: center;
-  margin-left:-10px;
-  margin-right:-10px;
-  margin-top:5px;
+        display: flex;
+        align-items: center;
+        margin-top:5px;
+        margin-left:10px;
+        margin-right:10px;
+        padding:5px;
 }
 
 .square {
-  width: 100px;
-  height: 635px;
+  width: 70px;
+  height: 630px;
   background-color: #a7e9f8;
   flex-shrink: 0;
-  padding:3px;
+  padding:4px;
+  margin-top:-0.5px;
 }
 
 .text-container {
@@ -65,7 +68,7 @@
    
 
 .text-container1 {
-  flex-basis: 60%;
+  flex-basis: 80%;
   margin-left: 20px;
   display: flex;
   flex-direction: column;
@@ -83,12 +86,12 @@
     </style>
 </head>
 <body>
-    <div class="div1">1</div><br>
+    <div class="div1">1</div>
     <div class="div2">2</div>
     <div class="container">
         <div class="square">3</div>
         <div class="text-container">
-          <span style="margin-top:-2px;">4</span>
+          <span style="margin-top:-3px;">4</span>
           <span>7</span>
           <span>9</span>
           <span>11</span>
@@ -99,7 +102,7 @@
           <span>21</span>
         </div>
         <div class="text-container1">
-            <span style="margin-top:-2px;">5</span>
+            <span style="margin-top:-3px;">5</span>
             <span>8</span>
             <span>10</span>
             <span>12</span>
