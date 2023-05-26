@@ -1,23 +1,19 @@
-# Assignments
-Assignment of CSS
+![Assignment1](https://github.com/akankshakandwal/Assignments/assets/107174826/ce9c18cb-3bf2-47f0-bb5d-28eac9b5f696)
 
-![Assignment1](https://github.com/akankshakandwal/Assignments/assets/107174826/e75cfc7b-8822-4122-8149-615854b5b9b0)
+![Assignment2](https://github.com/akankshakandwal/Assignments/assets/107174826/37c44458-7f08-41e4-bab2-6bb357d34bf5)
 
-![Assignment2](https://github.com/akankshakandwal/Assignments/assets/107174826/3d4775ef-badc-4a5a-9c9a-1f4f40aef12b)
+![Assignment3](https://github.com/akankshakandwal/Assignments/assets/107174826/5abe7b1b-7f75-43eb-a68e-c6a4dfa9eb32)
 
-![Assignment3](https://github.com/akankshakandwal/Assignments/assets/107174826/ebee3d64-26e1-4a87-adcd-7d32a57a2b6a)
+![Assignment4](https://github.com/akankshakandwal/Assignments/assets/107174826/6af0669c-4f9e-4f0a-8cc2-542ea8494041)
 
-![Assignment4](https://github.com/akankshakandwal/Assignments/assets/107174826/93e66668-b13f-40e6-87c2-6b12f4704a58)
+![Assignment5](https://github.com/akankshakandwal/Assignments/assets/107174826/0f80057b-3013-46c9-901e-cc54cadc6c86)
 
-![Assignment5](https://github.com/akankshakandwal/Assignments/assets/107174826/338ec82c-9c09-40bd-a25c-e44581b90107)
+![Assignment6](https://github.com/akankshakandwal/Assignments/assets/107174826/f75d814f-eae0-45c4-bc03-9edb22fbc00f)
 
-![Assignment6](https://github.com/akankshakandwal/Assignments/assets/107174826/09abeab9-e39b-43e6-8ced-b97a1e08a2ed)
+![Assignment7](https://github.com/akankshakandwal/Assignments/assets/107174826/88ea246e-8bb4-45ff-9d6c-1d6ee744b268)
 
-![Assignment7](https://github.com/akankshakandwal/Assignments/assets/107174826/78b6a42e-9367-46be-a317-16b718df085a)
+![Assignment8](https://github.com/akankshakandwal/Assignments/assets/107174826/fe5c4602-b5bb-4935-8e04-1761cc7aa9ed)
 
-![Assignment8](https://github.com/akankshakandwal/Assignments/assets/107174826/e18d835e-dd4f-4ad6-8a36-be2fb8c82944)
+![Assignment9](https://github.com/akankshakandwal/Assignments/assets/107174826/538fa8d9-670a-4f51-87db-fffaea567d2b)
 
-![Assignment9](https://github.com/akankshakandwal/Assignments/assets/107174826/0da5a0ae-8c6f-4647-8e52-84e0993d61b3)
-
-![Assignment10](https://github.com/akankshakandwal/Assignments/assets/107174826/2f1a89a5-ce8a-4274-9926-475d32ef3632)
-
+![Assignment10](https://github.com/akankshakandwal/Assignments/assets/107174826/100cf280-96af-4a0d-bb74-da434a265564)
